@@ -1,0 +1,18 @@
+---
+safe        : true
+lsi         : false
+permalink   : none
+markdown    : kramdown
+
+title:            'Mark Matthews'
+description:      'Personal webpage of Mark Matthews'
+url:              aplayspace.com 
+
+author:
+  name:           'Mark Matthews'
+
+exclude:
+  - Makefile
+  - sanitizers/
+
+# paginate:         5
