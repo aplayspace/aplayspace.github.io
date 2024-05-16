@@ -6,7 +6,7 @@ title_no_show: true
 
 **Hi, I am a person with the human-readable name, Mark J. A. Matthews **.
 
-I am an Assistant Professor in the School of Computer Science ([UCD][ist-link]) at University College Dublin.
+I am an Assistant Professor in the School of Computer Science ([UCD][ucd]) at University College Dublin.
 I am co-founder and Chief Technology Officer @ Health Rhythms, and cofounder/investor of Silver Cloud Health. 
 
 My research has focused primarily on developing technology to improve human lives, with a particular focus on 1. developing technologies to measure and improve mental health and
