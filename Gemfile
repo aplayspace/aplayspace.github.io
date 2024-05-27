@@ -1,4 +1,9 @@
-source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
+source "https://rubygems.org"
 
-gem "webrick", "~> 1.7"
+gem "kramdown"
+gem "kramdown-parser-gfm"
+gem "rouge"
+gem "jekyll"
+gem "jekyll-paginate"
+gem "jekyll-paginate-content"
+gem "json"
