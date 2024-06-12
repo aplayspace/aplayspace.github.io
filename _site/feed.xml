@@ -3,10 +3,10 @@
   <channel>
     <title>Jekyll Curate</title>
     <description></description>
-    <link>http://localhost:4000/aplayspace/</link>
-    <atom:link href="http://localhost:4000/aplayspace/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Jun 2024 17:23:19 +0100</pubDate>
-    <lastBuildDate>Wed, 12 Jun 2024 17:23:19 +0100</lastBuildDate>
+    <link>http://localhost:4000aplayspace/</link>
+    <atom:link href="http://localhost:4000aplayspace/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 12 Jun 2024 17:34:09 +0100</pubDate>
+    <lastBuildDate>Wed, 12 Jun 2024 17:34:09 +0100</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -85,8 +85,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 11 Mar 2022 16:49:03 +0000</pubDate>
-        <link>http://localhost:4000/aplayspace/blog/2022-02-10-ideas-to-help-business-grow/</link>
-        <guid isPermaLink="true">http://localhost:4000/aplayspace/blog/2022-02-10-ideas-to-help-business-grow/</guid>
+        <link>http://localhost:4000aplayspace/blog/2022-02-10-ideas-to-help-business-grow/</link>
+        <guid isPermaLink="true">http://localhost:4000aplayspace/blog/2022-02-10-ideas-to-help-business-grow/</guid>
         
         
         <category>Branding</category>
@@ -171,8 +171,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 13 Feb 2022 09:49:03 +0000</pubDate>
-        <link>http://localhost:4000/aplayspace/blog/2022-02-13-creating-fast-websites/</link>
-        <guid isPermaLink="true">http://localhost:4000/aplayspace/blog/2022-02-13-creating-fast-websites/</guid>
+        <link>http://localhost:4000aplayspace/blog/2022-02-13-creating-fast-websites/</link>
+        <guid isPermaLink="true">http://localhost:4000aplayspace/blog/2022-02-13-creating-fast-websites/</guid>
         
         
         <category>Branding</category>
@@ -255,8 +255,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 26 Jul 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/aplayspace/blog/2021-07-26-design-systems-that-scale/</link>
-        <guid isPermaLink="true">http://localhost:4000/aplayspace/blog/2021-07-26-design-systems-that-scale/</guid>
+        <link>http://localhost:4000aplayspace/blog/2021-07-26-design-systems-that-scale/</link>
+        <guid isPermaLink="true">http://localhost:4000aplayspace/blog/2021-07-26-design-systems-that-scale/</guid>
         
         
         <category>Branding</category>

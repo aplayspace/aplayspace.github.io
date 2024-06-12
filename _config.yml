@@ -1,8 +1,8 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "https://aplayspace.github.io/"
-url: ""
+baseurl: ""  # this should be empty since your site is at the root of the domain.
+url: "https://aplayspace.github.io"  # the base hostname & protocol for your site
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
