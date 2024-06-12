@@ -1,46 +1,43 @@
 ---
 layout: basic
-title: "About Us"
-date: 2018-11-28T15:15:34+10:00
+title: "About Me"
+date: 2023-11-28T15:15:34+10:00
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
-image: "/assets/images/gen/content/content-5.webp"
+description: ""
+image: 
+[comment]: <> ("/assets/images/gen/content/content-5.webp")
 ---
 
-# Creating Modern Websites
+# Hi, my name is Mark Matthews (MJM)!
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+My interests lie at the intersection of human interaction, mental health and play. 
+<br> I have had various different experiences that have arisen by pursuing my interests. 
+<br> This place is a record of some of those experiences. 
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
 
-## What is Web Design?
+## What do you do?
+I am an [Assistant Professor](https://people.ucd.ie/mark.matthews) in the [School of Computer Science](https://www.ucd.ie/cs/), [University College Dublin](https://www.ucd.ie/), Ireland. 
+I have been a Marie Curie Research Scholar at the Department of Information Science, Cornell University, New York under Geri Gay.  
+I have been a postdoctoral researcher in the People Aware Computing Lab under Tanzeem Choudhury. 
+I have been a PhD Candidate in the School of Computer Science, Trinity College Dubllin, Ireland under Gavin Doherty. 
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+<!--I studied Multimedia 
+English Literature and Philosophy --> 
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
+I co-founded Health Rhythms with Tanzeem Choudhury, Ellen Frank, David Kupfer and Shahid Ali, and served various roles including Chief Technology Officer for close to 10 years. 
+I was also scientific founder of Silver Cloud Health during my PhD at Trinity College Dublin with David Coyle, who wrote the funding application, and Gavin Doherty. 
 
-## Front-end Development
+I am a player and creator of games. 
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+<!--{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
+--> 
 
-> As a UX designer, you should consider the Why, What and How of product use.
+[comment]: <> ("> As a UX designer, you should consider the Why, What and How of product use.")
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
-
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
+<!--
 {% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
+--> 
 
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
+<!--
 ![Design In Figma]({{ "/assets/images/gen/content/content-2.webp" | relative_url }})
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+--> 

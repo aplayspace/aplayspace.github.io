@@ -3,10 +3,10 @@
   <channel>
     <title>Jekyll Curate</title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Jun 2024 16:26:52 +0100</pubDate>
-    <lastBuildDate>Wed, 12 Jun 2024 16:26:52 +0100</lastBuildDate>
+    <link>http://localhost:4000/aplayspace/</link>
+    <atom:link href="http://localhost:4000/aplayspace/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 12 Jun 2024 17:10:36 +0100</pubDate>
+    <lastBuildDate>Wed, 12 Jun 2024 17:10:36 +0100</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -31,7 +31,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -45,7 +45,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -85,8 +85,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 11 Mar 2022 16:49:03 +0000</pubDate>
-        <link>http://localhost:4000/blog/2022-02-10-ideas-to-help-business-grow/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2022-02-10-ideas-to-help-business-grow/</guid>
+        <link>http://localhost:4000/aplayspace/blog/2022-02-10-ideas-to-help-business-grow/</link>
+        <guid isPermaLink="true">http://localhost:4000/aplayspace/blog/2022-02-10-ideas-to-help-business-grow/</guid>
         
         
         <category>Branding</category>
@@ -117,7 +117,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -131,7 +131,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -171,8 +171,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 13 Feb 2022 09:49:03 +0000</pubDate>
-        <link>http://localhost:4000/blog/2022-02-13-creating-fast-websites/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2022-02-13-creating-fast-websites/</guid>
+        <link>http://localhost:4000/aplayspace/blog/2022-02-13-creating-fast-websites/</link>
+        <guid isPermaLink="true">http://localhost:4000/aplayspace/blog/2022-02-13-creating-fast-websites/</guid>
         
         
         <category>Branding</category>
@@ -201,7 +201,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -215,7 +215,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -255,8 +255,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 26 Jul 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/2021-07-26-design-systems-that-scale/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2021-07-26-design-systems-that-scale/</guid>
+        <link>http://localhost:4000/aplayspace/blog/2021-07-26-design-systems-that-scale/</link>
+        <guid isPermaLink="true">http://localhost:4000/aplayspace/blog/2021-07-26-design-systems-that-scale/</guid>
         
         
         <category>Branding</category>
@@ -287,7 +287,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -301,7 +301,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -341,8 +341,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 23 Jul 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/2021-07-23-working-with-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2021-07-23-working-with-jekyll/</guid>
+        <link>http://localhost:4000/aplayspace/blog/2021-07-23-working-with-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/aplayspace/blog/2021-07-23-working-with-jekyll/</guid>
         
         
         <category>Branding</category>
@@ -371,7 +371,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -385,7 +385,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -425,8 +425,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 20 Jul 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/2021-07-20-targeting-keywords-for-traffic/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2021-07-20-targeting-keywords-for-traffic/</guid>
+        <link>http://localhost:4000/aplayspace/blog/2021-07-20-targeting-keywords-for-traffic/</link>
+        <guid isPermaLink="true">http://localhost:4000/aplayspace/blog/2021-07-20-targeting-keywords-for-traffic/</guid>
         
         
         <category>Branding</category>
@@ -457,7 +457,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -471,7 +471,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -511,8 +511,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/2021-02-27-analytics-metrics-for-business/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2021-02-27-analytics-metrics-for-business/</guid>
+        <link>http://localhost:4000/aplayspace/blog/2021-02-27-analytics-metrics-for-business/</link>
+        <guid isPermaLink="true">http://localhost:4000/aplayspace/blog/2021-02-27-analytics-metrics-for-business/</guid>
         
         
         <category>Development</category>
@@ -543,7 +543,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -557,7 +557,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -597,8 +597,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 10 Sep 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/2020-09-10-reaching-your-audience/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2020-09-10-reaching-your-audience/</guid>
+        <link>http://localhost:4000/aplayspace/blog/2020-09-10-reaching-your-audience/</link>
+        <guid isPermaLink="true">http://localhost:4000/aplayspace/blog/2020-09-10-reaching-your-audience/</guid>
         
         
         <category>Branding</category>
@@ -627,7 +627,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -641,7 +641,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -681,8 +681,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 09 Aug 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/2020-08-09-using-liquid-templates/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2020-08-09-using-liquid-templates/</guid>
+        <link>http://localhost:4000/aplayspace/blog/2020-08-09-using-liquid-templates/</link>
+        <guid isPermaLink="true">http://localhost:4000/aplayspace/blog/2020-08-09-using-liquid-templates/</guid>
         
         
         <category>Branding</category>
@@ -711,7 +711,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -725,7 +725,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -765,8 +765,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 22 Jun 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/2020-06-22-css-html/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2020-06-22-css-html/</guid>
+        <link>http://localhost:4000/aplayspace/blog/2020-06-22-css-html/</link>
+        <guid isPermaLink="true">http://localhost:4000/aplayspace/blog/2020-06-22-css-html/</guid>
         
         
         <category>Branding</category>
@@ -795,7 +795,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -809,7 +809,7 @@
 
 &lt;figure&gt;
   &lt;a href=&quot;https://figma.com&quot; target=&quot;\_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
+    &lt;img src=&quot;/aplayspace/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption&gt;
     &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
@@ -849,8 +849,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/2020-02-14-creative-ideas-for-writing/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2020-02-14-creative-ideas-for-writing/</guid>
+        <link>http://localhost:4000/aplayspace/blog/2020-02-14-creative-ideas-for-writing/</link>
+        <guid isPermaLink="true">http://localhost:4000/aplayspace/blog/2020-02-14-creative-ideas-for-writing/</guid>
         
         
         <category>Branding</category>
