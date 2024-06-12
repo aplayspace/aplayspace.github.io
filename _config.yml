@@ -1,8 +1,8 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "aplayspace"
-url: "www.aplayspace.com"
+baseurl: "https://aplayspace.github.io/"
+url: ""
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
