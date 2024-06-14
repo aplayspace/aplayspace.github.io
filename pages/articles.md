@@ -5,7 +5,7 @@ layout: basic
 permalink: "/articles/"
 ---
 
-This is an aggregation of various writings.
+an aggregation of writings.
 
 ---
 
