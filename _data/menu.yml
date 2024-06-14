@@ -26,12 +26,9 @@ main:
         icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: "Top layout"
         url: /projects/project-4/
-  - name: Blog
-    url: /blog/
-    weight: 2
   - name: Articles
     url: /articles/
-    weight: 2
+    weight: 1
   - name: About
     url: /about/
     weight: 4
