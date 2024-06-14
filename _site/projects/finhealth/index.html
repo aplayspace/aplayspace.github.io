@@ -5,20 +5,26 @@
     <meta content="ie=edge" http-equiv="x-ua-compatible">
     <meta content="width=device-width, initial-scale=1" name="viewport">
 
-    <title>Javascript - Jekyll Curate</title>
+    <title>Water Works Revitalisation - Jekyll Curate</title>
 
+
+  <meta name="description" content="Breathing new life into old industrial estates"/>
 
 
 
     <meta property="og:type" content="website"/>
-<meta property="og:url" content="http://localhost:4000/category/javascript/"/>
+<meta property="og:url" content="http://localhost:4000/projects/project-1/"/>
 
 
-  <meta property="og:title" content="Javascript"/>
+  <meta property="og:title" content="Water Works Revitalisation"/>
 
 
 
+  <meta property="og:description" content="Breathing new life into old industrial estates"/>
 
+
+
+  <meta property="og:image" content="http://localhost:4000/assets/images/gen/projects/project-2-1.webp"/>
 
 
 <meta name="twitter:card" content="summary"/>
@@ -174,7 +180,7 @@
     
 
   </head>
-<body class="page page-category has-static-header">
+<body class="page page-project has-static-header">
 
 
 <div class="menu-main-mobile " id="menu-main-mobile">
@@ -338,12 +344,12 @@
         
         
 
-        <li class="menu-item-dropdown menu-item-Projects ">
+        <li class="menu-item-dropdown menu-item-Projects  active ">
           <a href="/projects/">Projects <i class="fa-solid fa-chevron-down"></i></a>
           
           <div class="dropdown-menu">
             
-              <a href="/projects/project-1/" class="dropdown-item ">
+              <a href="/projects/project-1/" class="dropdown-item  active ">
                 
                   <div class="dropdown-item-icon"><img src="/assets/images/icons/wireframe-7.svg" /></div>
                 
@@ -454,49 +460,126 @@
 </div>
 
 <div id="wrapper" class="wrapper">     
-  <div class="section">
+  
+
+<div class="section">
   <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-12">
+    <div class="row">
+
+      <div class="col-12 col-md-6 mb-4">
+
+        
+          <div class="project-heading">
+            <h1>Water Works Revitalisation</h1>
+          </div>
         
 
+        
+          <div class="project-categories">
+          
 
-
-
-
-
-
-
-
-<div class="heading heading-left">
-  
-    <div class="heading-badge">
-      <span>category</span>
-    </div>
-  
-  
-  
-  <div class="heading-heading">
-    <h1>Javascript</h1>
-  </div>
-  
-  
-  
 
   
+    
+
+
+
+
+<div class="category-link">
+<a href="/category/development">
+  Development
+</a>
+
 </div>
+  
+
+          </div>
+        
+
+        
+          <div class="project-date">
+            <strong>Date </strong><span>20 December 2018</span>
+          </div>
+        
+
+        
+          <div class="project-client">
+            <strong>Client </strong><span>Brisbane City Council</span>
+          </div>
+        
+
+        
+          <div class="project-role">
+            <strong>Role </strong><span>Building Designer</span>
+          </div>
+        
+
+      </div>
+
+      <div class="col-12 col-md-6 mb-4">
+        <div class="content"><p>Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.</p>
+
+<p>The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.</p>
+
+<p>Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.</p>
+</div>
+      </div>
+
+    </div>
+
+    <div class="row">
+      <div class="col">
+        <div class="gallery gallery-masonry">
+          
+            <div class="gallery-item">
+              <div class="gallery-image"><img src="/assets/images/gen/projects/project-2-1.webp"/></div>
+              
+            </div>
+          
+            <div class="gallery-item">
+              <div class="gallery-image"><img src="/assets/images/gen/projects/project-2-2.webp"/></div>
+              
+            </div>
+          
+            <div class="gallery-item">
+              <div class="gallery-image"><img src="/assets/images/gen/projects/project-2-5.webp"/></div>
+              
+            </div>
+          
+            <div class="gallery-item">
+              <div class="gallery-image"><img src="/assets/images/gen/projects/project-2-4.webp"/></div>
+              
+            </div>
+          
+            <div class="gallery-item">
+              <div class="gallery-image"><img src="/assets/images/gen/projects/project-2-3.webp"/></div>
+              
+            </div>
+          
+            <div class="gallery-item">
+              <div class="gallery-image"><img src="/assets/images/gen/projects/project-2-6.webp"/></div>
+              
+            </div>
+          
+        </div>
       </div>
     </div>
   </div>
 </div>
 
-<div class="section pt-0">
-  <div class="container">
-    
-    
-  </div>
-</div>
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
+<script>
+  var grid = document.querySelector('.gallery');
+  var msnry;
 
+  imagesLoaded( grid, function() {
+    msnry = new Masonry( grid, {
+      itemSelector: '.gallery-item',
+      percentPosition: true,
+    });
+  });
+</script>
 </div>
 
 
