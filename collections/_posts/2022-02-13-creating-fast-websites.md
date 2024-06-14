@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "How to make your website page load speed fast"
+title: "MoodRhythm"
 date: 2022-02-13T09:49:03Z
-authors: ["Mike Vance"]
-categories: ["Branding"]
-description: Branding is an intrinsic part of your companies success, learn why your brand matters.
-thumbnail: "/assets/images/gen/blog/blog-18-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-18.webp"
+authors: ["MJM"]
+categories: ["Research", "Bipolar Disorder"]
+description: MoodRhythm was a mood assessment platform for tracking social rhythms and behaviour of people with bipolar disorder. 
+thumbnail: "/assets/images/gen/blog/moodrhythm-thumb.webp"
+image: "/assets/images/gen/blog/moodrhythm.webp"
 comments: false
 subscribe: true
 ---
