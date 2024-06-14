@@ -41,3 +41,7 @@ I am a player and creator of games.
 <!--
 ![Design In Figma]({{ "/assets/images/gen/content/content-2.webp" | relative_url }})
 --> 
+
+## This site
+This site is statically generated and served as HTML. Fundamentally this means there is very little surface area for this site to be hacked or compromised. It does not require a database or backend server to process and render documents. Technically there is still a webserver, but it serves pre-rendered documents generated at build time.
+It uses the wonderful Jekyll template, Curate
