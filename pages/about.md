@@ -4,8 +4,7 @@ title: "About Me"
 date: 2023-11-28T15:15:34+10:00
 permalink: "/about/"
 description: ""
-image: 
-[comment]: <> ("/assets/images/gen/content/content-5.webp")
+image: "/assets/images/team/mjm.png"
 ---
 
 # Hi, my name is Mark Matthews (MJM)!

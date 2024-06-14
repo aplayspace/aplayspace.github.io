@@ -1,26 +1,27 @@
 ---
-title: "Publications"
+title: "articles"
 date: 2024-14-06
 layout: basic
-permalink: "/publications/"
+permalink: "/articles/"
 ---
 
-
-We have done our best to create a simple, transparent privacy policy. **Our aim is to collect and store no data, or as little as possible.** We only use cookies that are essential to run this website.
-
-
+This is an aggregation of various writings.
 
 ---
 
-## Services We Use
+## 2024
 
-### Analytics
+Brozena, J., Blair, J., Richardson, T., Matthews, M., Mukherjee, D., Saunders, E. F., & Abdullah, S. (2024, May). *Supportive Fintech for Individuals with Bipolar Disorder: Financial Data Sharing Preferences for
 
-This site uses Plausible Analytics, a privacy focused GDPR compliant analytics alternative to Google Analytics. By using Plausible Analytics, all the site measurement is carried out absolutely anonymously. Cookies are not set and no personal data is collected. All data is in aggregate only. [Learn More](https://plausible.io/privacy-focused-web-analytics)
 
-### Advertising & Marketing 
+### 2023 
+
+### 2023 
 
 This site does not include any 3rd party advertising or marketing tracking code.
+
+- **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+- **Country** refers to: California, United States
 
 ### Fonts
 
