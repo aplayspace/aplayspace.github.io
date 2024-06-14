@@ -38,25 +38,25 @@ main:
   
 
 footer_primary:
-  - name: "Project 1"
-    url: /projects/project-1/
-  - name: "Project 2"
-    url: /projects/project-2/
-  - name: "Project 3"
-    url: /projects/project-3/
-  - name: "Project 4"
-    url: /projects/project-4/
+  - name: "moodrhythm"
+    url: /projects/moodrhythm/
+  - name: "finhealth"
+    url: /projects/finhealth/
+  - name: "commonhealth"
+    url: /projects/commonhealth/
+  - name: "healthrhythms"
+    url: /projects/healthrhythms/
 
 footer_secondary:
-  - name: Blog
-    url: /blog/
+  - name: articles
+    url: /articles/
     weight: 2
-  - name: About
+  - name: about
     url: /about/
-    weight: 3
-  - name: Contact
-    url: /contact/
     weight: 4
+  - name: entropics
+    url: /entropics/
+    weight: 3
 
 
 footer_tertiary:
