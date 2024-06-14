@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: "This is a playspace for ideas<strong></strong>"
+title: "a playspace for ideas<strong></strong>"
 description: "A repository of ideas, projects, games, publications and photos"
 meta_description: "A repository of ideas, projects, games, publications and photos"
 meta_title: aplayspace - mjm
