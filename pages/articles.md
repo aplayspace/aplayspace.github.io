@@ -31,5 +31,9 @@ Blair, J., Brozena, J., Matthews, M., Richardson, T., & Abdullah, S. (2022). [*F
 
 Frank, E., Wallace, M. L., Matthews, M. J., Kendrick, J., Leach, J., Moore, T., ... & Kupfer, D. J. (2022). [*Personalized digital intervention for depression based on social rhythm principles adds significantly to outpatient treatment*](https://www.frontiersin.org/articles/10.3389/fdgth.2022.870522/full). Frontiers in Digital Health, 4, 870522.
 
-
 ---
+### 2021
+Gaggioni, G., Brown, J., Chan, S., Cullen, B., Farquhar, M., Gibbons, D., ... & Smith, D. (2021). [*46 The sleep, circadian rhythms and mental health in schools (SCRAMS) feasibility study*](https://bmjopenrespres.bmj.com/content/8/Suppl_1/A22.1.abstract).
+
+### 2018 
+Murnane, E. L., Snyder, J., Voida, S., Bietz, M. J., Matthews, M., Munson, S., & Pina, L. R. (2018, October). [*Social issues in personal informatics: Design, data, and infrastructure*](https://dl.acm.org/doi/abs/10.1145/3272973.3273016). In Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (pp. 471-478).

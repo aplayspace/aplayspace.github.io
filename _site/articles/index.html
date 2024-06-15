@@ -37,132 +37,6 @@
     
 
     
-      <!-- https://github.com/orestbida/cookieconsent -->
-
-<link rel="stylesheet" href="/assets/css/cookieconsent.css">
-<script defer src="/assets/js/cookieconsent.js"></script>
-
-<!-- Inline script -->
-<script>
-    window.addEventListener('load', function () {
-
-        // obtain plugin
-        var cc = initCookieConsent();
-
-        // run plugin with your configuration
-        cc.run({
-            current_lang: 'en',
-            autoclear_cookies: true,                   // default: false
-            page_scripts: true,                        // default: false
-
-            // mode: 'opt-in'                          // default: 'opt-in'; value: 'opt-in' or 'opt-out'
-            // delay: 0,                               // default: 0
-            // auto_language: '',                      // default: null; could also be 'browser' or 'document'
-            // autorun: true,                          // default: true
-            // force_consent: false,                   // default: false
-            // hide_from_bots: true,                   // default: true
-            // remove_cookie_tables: false             // default: false
-            // cookie_name: 'cc_cookie',               // default: 'cc_cookie'
-            // cookie_expiration: 182,                 // default: 182 (days)
-            // cookie_necessary_only_expiration: 182   // default: disabled
-            // cookie_domain: location.hostname,       // default: current domain
-            // cookie_path: '/',                       // default: root
-            // cookie_same_site: 'Lax',                // default: 'Lax'
-            // use_rfc_cookie: false,                  // default: false
-            // revision: 0,                            // default: 0
-
-            onFirstAction: function (user_preferences, cookie) {
-                // callback triggered only once on the first accept/reject action
-            },
-
-            onAccept: function (cookie) {
-                // callback triggered on the first accept/reject action, and after each page load
-            },
-
-            onChange: function (cookie, changed_preferences) { 
-                // If analytics category is disabled => disable google analytics 
-                if (!cc.allowedCategory('analytics')) { 
-                    typeof gtag === 'function' && gtag('consent', 'update', { 
-                        'analytics_storage': 'denied' 
-                    }); 
-                } 
-            }, 
-
-            languages: {
-                'en': {
-                    consent_modal: {
-                        title: 'We use cookies!',
-                        description: 'Hi, this website uses essential cookies to ensure its proper operation and tracking cookies to understand how you interact with it. The latter will be set only after consent. <button type="button" data-cc="c-settings" class="cc-link">Let me choose</button>',
-                        primary_btn: {
-                            text: 'Accept all',
-                            role: 'accept_all'              // 'accept_selected' or 'accept_all'
-                        },
-                        secondary_btn: {
-                            text: 'Reject all',
-                            role: 'accept_necessary'        // 'settings' or 'accept_necessary'
-                        }
-                    },
-                    settings_modal: {
-                        title: 'Cookie preferences',
-                        save_settings_btn: 'Save settings',
-                        accept_all_btn: 'Accept all',
-                        reject_all_btn: 'Reject all',
-                        close_btn_label: 'Close',
-                        // cookie_table_caption: 'Cookie list',
-                        cookie_table_headers: [
-                            { col1: 'Name' },
-                            { col2: 'Domain' },
-                            { col3: 'Expiration' },
-                            { col4: 'Description' }
-                        ],
-                        blocks: [
-                            {
-                                title: 'Cookie usage 📢',
-                                description: 'I use cookies to ensure the basic functionalities of the website and to enhance your online experience. You can choose for each category to opt-in/out whenever you want. For more details relative to cookies and other sensitive data, please read the full <a href="#" class="cc-link">privacy policy</a>.'
-                            }, {
-                                title: 'Strictly necessary cookies',
-                                description: 'These cookies are essential for the proper functioning of my website. Without these cookies, the website would not work properly',
-                                toggle: {
-                                    value: 'necessary',
-                                    enabled: true,
-                                    readonly: true          // cookie categories with readonly=true are all treated as "necessary cookies"
-                                }
-                            }, {
-                                title: 'Performance and Analytics cookies',
-                                description: 'These cookies allow the website to remember the choices you have made in the past',
-                                toggle: {
-                                    value: 'analytics',     // your cookie category
-                                    enabled: false,
-                                    readonly: false
-                                },
-                                cookie_table: [             // list of all expected cookies
-                                    {
-                                        col1: '^_ga',       // match all cookies starting with "_ga"
-                                        col2: 'google.com',
-                                        col3: '2 years',
-                                        col4: 'description ...',
-                                        is_regex: true
-                                    },
-                                    {
-                                        col1: '_gid',
-                                        col2: 'google.com',
-                                        col3: '1 day',
-                                        col4: 'description ...',
-                                    }
-                                ]
-                            },
-                            {
-                                title: 'More information',
-                                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="#yourcontactpage">contact us</a>.',
-                            }
-                        ]
-                    }
-                }
-            }
-        });
-    });
-</script>
-    
 
     
 
@@ -492,7 +366,7 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-12 col-lg-8">
-          <div class="content"><p>an aggregation of writings.</p><hr /><h2 id="2024">2024</h2><p>Matthews, M., Collier, R. &amp; Spendlove, E. (In Review). <a href="https://euramas.github.io/eumas2024/"><em>CommonHealth: multi-agent evaluation of blockchain-based patient-centred health data networks</em></a>. In European Conference on Multi-Agent Systems.</p><p>Brozena, J., Blair, J., Richardson, T., Matthews, M., Mukherjee, D., Saunders, E. F., &amp; Abdullah, S. (2024, May). <a href="https://dl.acm.org/doi/10.1145/3613904.3642645"><em>Supportive Fintech for Individuals with Bipolar Disorder: Financial Data Sharing Preferences for Longitudinal Care Management</em></a>. In Proceedings of the CHI Conference on Human Factors in Computing Systems (pp. 1-15).</p><hr /><h3 id="2023">2023</h3><p>Brozena, J., Abdullah, S., Blair, J., Richardson, T., Matthews, M., Saunders, E. F., &amp; Mukherjee, D. (2023). <a href="https://osf.io/5akeb/resources"><em>Identifying and addressing privacy concerns regarding the use of financial data from individuals with BD</em></a>.</p><p>Brozena, J., Blair, J., Richardson, T., Matthews, M., Mukherjee, D., Saunders, E. F., &amp; Abdullah, S. (2023). <a href="https://arxiv.org/abs/2306.15725"><em>Fintech for Psychological and Financial Resilience: Determinants of Financial Data Sharing Behavior for Individuals with Bipolar Disorder</em></a>. arXiv preprint arXiv:2306.15725.</p><hr /><h3 id="2022">2022</h3><p>Blair, J., Brozena, J., Matthews, M., Richardson, T., &amp; Abdullah, S. (2022). <a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2022.810057/full"><em>Financial technologies (FinTech) for mental health: The potential of objective financial data to better understand the relationships between financial behavior and mental health</em></a>. Frontiers in Psychiatry, 13, 810057.</p><p>Frank, E., Wallace, M. L., Matthews, M. J., Kendrick, J., Leach, J., Moore, T., … &amp; Kupfer, D. J. (2022). <a href="https://www.frontiersin.org/articles/10.3389/fdgth.2022.870522/full"><em>Personalized digital intervention for depression based on social rhythm principles adds significantly to outpatient treatment</em></a>. Frontiers in Digital Health, 4, 870522.</p><hr /></div>
+          <div class="content"><p>an aggregation of writings.</p><hr /><h2 id="2024">2024</h2><p>Matthews, M., Collier, R. &amp; Spendlove, E. (In Review). <a href="https://euramas.github.io/eumas2024/"><em>CommonHealth: multi-agent evaluation of blockchain-based patient-centred health data networks</em></a>. In European Conference on Multi-Agent Systems.</p><p>Brozena, J., Blair, J., Richardson, T., Matthews, M., Mukherjee, D., Saunders, E. F., &amp; Abdullah, S. (2024, May). <a href="https://dl.acm.org/doi/10.1145/3613904.3642645"><em>Supportive Fintech for Individuals with Bipolar Disorder: Financial Data Sharing Preferences for Longitudinal Care Management</em></a>. In Proceedings of the CHI Conference on Human Factors in Computing Systems (pp. 1-15).</p><hr /><h3 id="2023">2023</h3><p>Brozena, J., Abdullah, S., Blair, J., Richardson, T., Matthews, M., Saunders, E. F., &amp; Mukherjee, D. (2023). <a href="https://osf.io/5akeb/resources"><em>Identifying and addressing privacy concerns regarding the use of financial data from individuals with BD</em></a>.</p><p>Brozena, J., Blair, J., Richardson, T., Matthews, M., Mukherjee, D., Saunders, E. F., &amp; Abdullah, S. (2023). <a href="https://arxiv.org/abs/2306.15725"><em>Fintech for Psychological and Financial Resilience: Determinants of Financial Data Sharing Behavior for Individuals with Bipolar Disorder</em></a>. arXiv preprint arXiv:2306.15725.</p><hr /><h3 id="2022">2022</h3><p>Blair, J., Brozena, J., Matthews, M., Richardson, T., &amp; Abdullah, S. (2022). <a href="https://www.frontiersin.org/articles/10.3389/fpsyt.2022.810057/full"><em>Financial technologies (FinTech) for mental health: The potential of objective financial data to better understand the relationships between financial behavior and mental health</em></a>. Frontiers in Psychiatry, 13, 810057.</p><p>Frank, E., Wallace, M. L., Matthews, M. J., Kendrick, J., Leach, J., Moore, T., … &amp; Kupfer, D. J. (2022). <a href="https://www.frontiersin.org/articles/10.3389/fdgth.2022.870522/full"><em>Personalized digital intervention for depression based on social rhythm principles adds significantly to outpatient treatment</em></a>. Frontiers in Digital Health, 4, 870522.</p><hr /><h3 id="2021">2021</h3><p>Gaggioni, G., Brown, J., Chan, S., Cullen, B., Farquhar, M., Gibbons, D., … &amp; Smith, D. (2021). <a href="https://bmjopenrespres.bmj.com/content/8/Suppl_1/A22.1.abstract"><em>46 The sleep, circadian rhythms and mental health in schools (SCRAMS) feasibility study</em></a>.</p><h3 id="2018">2018</h3><p>Murnane, E. L., Snyder, J., Voida, S., Bietz, M. J., Matthews, M., Munson, S., &amp; Pina, L. R. (2018, October). <a href="https://dl.acm.org/doi/abs/10.1145/3272973.3273016"><em>Social issues in personal informatics: Design, data, and infrastructure</em></a>. In Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (pp. 471-478).</p></div>
         </div>
       </div>
     </div>
