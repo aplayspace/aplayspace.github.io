@@ -37,3 +37,16 @@ Gaggioni, G., Brown, J., Chan, S., Cullen, B., Farquhar, M., Gibbons, D., ... & 
 
 ### 2018 
 Murnane, E. L., Snyder, J., Voida, S., Bietz, M. J., Matthews, M., Munson, S., & Pina, L. R. (2018, October). [*Social issues in personal informatics: Design, data, and infrastructure*](https://dl.acm.org/doi/abs/10.1145/3272973.3273016). In Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing (pp. 471-478).
+
+### 2017
+Matthews, M., Murnane, E., & Snyder, J. (2017). [*Quantifying the Changeable Self: The role of self-tracking in coming to terms with and managing bipolar disorder.*](https://www.tandfonline.com/doi/full/10.1080/07370024.2017.1294983) Human–Computer Interaction, 32(5-6), 413-446.
+
+Frank, Ellen, et al. [*"Sensing depression: Using smartphone sensors to predict changes in depression severity."*](https://www.nature.com/neuropsychopharmacology/) Neuropsychopharmacology. Vol. 43. MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND: NATURE PUBLISHING GROUP, 2017.
+
+Matthews, Mark, et al. [*"The double-edged sword: A mixed methods study of the interplay between bipolar disorder and technology use."*](https://www.sciencedirect.com/science/article/pii/S0747563217303217) Computers in Human Behavior 75 (2017): 288-300.
+
+Aung, Min Hane, Mark Matthews, and Tanzeem Choudhury. [*"Sensing behavioral symptoms of mental health and delivering personalized interventions using mobile technologies."*](https://onlinelibrary.wiley.com/doi/full/10.1002/da.22646) Depression and Anxiety 34.7 (2017): 603-609.
+
+Choe, E. K., Abdullah, S., Rabbi, M., Thomaz, E., Epstein, D. A., Cordeiro, F., ... & Kientz, J. A. (2017). [*Semi-automated tracking: a balanced approach for self-monitoring applications.*](https://ieeexplore.ieee.org/abstract/document/7807194) IEEE Pervasive Computing, 16(1), 74-84.
+
+Abdullah, S., Murnane, E. L., Matthews, M., & Choudhury, T. (2017). [*Circadian computing: sensing, modeling, and maintaining biological rhythms.*](https://link.springer.com/chapter/10.1007/978-3-319-51394-2_3) Mobile Health: Sensors, Analytic Methods, and Applications, 35-58.
