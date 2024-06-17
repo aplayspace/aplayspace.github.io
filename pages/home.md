@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: "/"
-title: "a playspace for ideas<strong></strong>"
-description: "a place for ideas, games and entropics."
+title: "a playspace for ideas, games & entropics<strong></strong>"
+description: ""
 meta_description: "a place for ideas, games and entropics."
 meta_title: aplayspace - mjm
 subscribe: false
