@@ -4,7 +4,7 @@ permalink: "/"
 title: "a playspace for ideas, games & entropics<strong></strong>"
 description: ""
 meta_description: "a place for ideas, games and entropics."
-meta_title: aplayspace - mjm
+meta_title: aplayspace
 subscribe: false
 
 projects:
