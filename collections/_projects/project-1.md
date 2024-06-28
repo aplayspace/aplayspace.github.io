@@ -26,3 +26,8 @@ It was based on a clinically validated therapy, Interpersonal Social Rhythm Ther
 MoodRhythm used patients’ smartphones to both actively and passively track daily rhythms and to provide affective feedback that can help patients to maintain a regular daily rhythm, while feeding this clinically valuable information back to their physicians.
 
 Winner of the 2013 open mHealth Challenge - http://openmhealth.org/events/heritage-open-mhealth-challenge/
+
+
+
+
+support@invest.ally.com
