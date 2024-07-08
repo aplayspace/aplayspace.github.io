@@ -28,6 +28,3 @@ MoodRhythm used patients’ smartphones to both actively and passively track dai
 Winner of the 2013 open mHealth Challenge - http://openmhealth.org/events/heritage-open-mhealth-challenge/
 
 
-
-
-support@invest.ally.com
