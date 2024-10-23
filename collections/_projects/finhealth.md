@@ -1,5 +1,5 @@
 ---
-layout: project # alternative layouts: project, project-left, project-right, project-top
+layout: project-left # alternative layouts: project, project-left, project-right, project-top
 title: "FinHealth"
 description: "Investigating the relationship between mood and financial behaviour using objective data."
 date: 2022-12-20

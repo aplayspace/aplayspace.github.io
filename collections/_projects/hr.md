@@ -6,9 +6,9 @@ date: 2022-12-20
 weight: 3
 thumbnail: "/assets/images/gen/projects/hr-1-thumb.webp"
 image: "/assets/images/gen/projects/hr-1.webp"
-categories: ["Bipolar Disorder"]
+categories: ["Mental Health", "Biomarkers"]
 client: "Tanzeem Choudhury, Ellen Frank, David Kupfer, Shahid Ali, Paul Gilbert"
-role: NIMH grnts
+role: NIMH grnts, Venture funding 
 gallery:
   - image: "/assets/images/gen/projects/hr-1.webp"
   - image: "/assets/images/gen/projects/hr-2.webp"
