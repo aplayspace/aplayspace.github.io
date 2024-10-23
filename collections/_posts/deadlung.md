@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "MoodRhythm"
-date: 2022-02-13T09:49:03Z
+title: "Deadlung - a playable health message"
+date: 2024-02-13T09:49:03Z
 authors: ["MJM"]
-categories: ["Research", "Bipolar Disorder"]
-description: MoodRhythm was a mood assessment platform for tracking social rhythms and behaviour of people with bipolar disorder. 
-thumbnail: "/assets/images/gen/blog/moodrhythm-thumb.webp"
-image: "/assets/images/gen/blog/moodrhythm.webp"
+categories: ["Games", "Health"]
+description: "Deadlung is a variant of Breakout, a video game by Atari (coded by Steve Wozniak, designed by Nolan Bushnell & Steve Bristow)." 
+thumbnail: "/assets/images/gen/blog/deadlung-thumb.webp"
+image: "/assets/images/gen/blog/deadlung.webp"
 comments: false
 subscribe: true
 ---
@@ -25,6 +25,7 @@ To this end, its main inspiration is the existing conventions for marking up pla
 
 ## Markdown Flavours
 
+https://gfoy529700.wordpress.com/simon-project/pharmacy-poster/
 From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to "document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations".
 
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="There are many popular text editors for Markdown" caption="VSCode Editor" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}

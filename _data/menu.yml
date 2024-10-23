@@ -32,8 +32,8 @@ main:
   - name: About
     url: /about/
     weight: 4
-  - name: Contact
-    url: /contact/
+  - name: Entropics
+    url: /blog/
     weight: 5
   
 
@@ -51,11 +51,11 @@ footer_secondary:
   - name: articles
     url: /articles/
     weight: 2
-  - name: about
-    url: /about/
-    weight: 4
   - name: entropics
     url: /entropics/
+    weight: 3
+  - name: about
+    url: /about/
     weight: 3
 
 
