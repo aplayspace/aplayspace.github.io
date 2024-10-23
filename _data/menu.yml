@@ -29,12 +29,13 @@ main:
   - name: Articles
     url: /articles/
     weight: 1
+  - name: entropics
+    url: /blog/
+    weight: 2
   - name: About
     url: /about/
-    weight: 4
-  - name: Entropics
-    url: /blog/
-    weight: 5
+    weight: 3 
+
   
 
 footer_primary:
@@ -52,11 +53,11 @@ footer_secondary:
     url: /articles/
     weight: 2
   - name: entropics
-    url: /entropics/
+    url: /blog/
     weight: 3
   - name: about
     url: /about/
-    weight: 3
+    weight: 4
 
 
 footer_tertiary:

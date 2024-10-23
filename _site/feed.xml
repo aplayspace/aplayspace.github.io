@@ -5,9 +5,44 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Oct 2024 17:04:03 +0100</pubDate>
-    <lastBuildDate>Wed, 23 Oct 2024 17:04:03 +0100</lastBuildDate>
+    <pubDate>Wed, 23 Oct 2024 19:54:36 +0100</pubDate>
+    <lastBuildDate>Wed, 23 Oct 2024 19:54:36 +0100</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Redact - a playable health message</title>
+        <description>&lt;p&gt;Redact is a bookmarklet that allows you to redact text on any webpage. You can use it however you want but one way people use it is to redact words in an online article. You can create interesting word combinations and new ideas simply by word redaction, which can lead to new discoveries and amusements.&lt;/p&gt;
+
+&lt;p&gt;Mary Ruefle has created poems through this process of ersasure, although she tends to use physical books and physical elisiion instruments like markers and white-out, as in her little delightful book, Little White Shadow.&lt;/p&gt;
+
+&lt;p&gt;You can try it out and make some redacted work &lt;a href=&quot;https://www.aplayspace.com/redact/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Sep 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/2024-09-10-redact/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2024-09-10-redact/</guid>
+        
+        
+        <category>Art</category>
+        
+        <category>Redact</category>
+        
+      </item>
+    
+      <item>
+        <title>Deadlung - a playable health message</title>
+        <description>&lt;p&gt;You can make up your own mind &lt;a href=&quot;https://www.aplayspace.com/deadlung/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 13 Feb 2023 09:49:03 +0000</pubDate>
+        <link>http://localhost:4000/blog/2024-10-15-deadlung/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2024-10-15-deadlung/</guid>
+        
+        
+        <category>Games</category>
+        
+        <category>Health</category>
+        
+      </item>
     
   </channel>
 </rss>

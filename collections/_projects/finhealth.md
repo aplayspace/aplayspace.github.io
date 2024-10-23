@@ -11,8 +11,6 @@ client: "Oluwadara Adedeji, Saeed Abdullah, Jeff Bronza, Johnna Blair, Thomas Ri
 role: HealthRhythms PhD Fellowship, Science Foundation Ireland 
 gallery:
   - image: "/assets/images/gen/projects/finhealth-1.webp"
-  - image: "/assets/images/gen/projects/finhealth-2.webp"
-  - image: "/assets/images/gen/projects/finhealth-3.webp"
 
 
 ---
