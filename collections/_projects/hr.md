@@ -34,12 +34,8 @@ Visit <a href="https://healthrhythms.com">healthrhythms.com</a> to learn more.
 
 
 
-
-
-
-// ... existing content ...
-
-<video autoplay loop muted playsinline style="width: 100vw; max-width: 100vw; height: auto; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; transform: rotate(0deg);">
-  <source src="/assets/videos/hr-video1.mp4" type="video/mp4">
+<!--<video autoplay loop muted playsinline style="width: 100vw; max-width: 100vw; height: auto; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; transform: rotate(0deg);">
+  <source src="/assets/videos/hr-video1.mp4" type="video/mp4" >
   Your browser does not support the video tag.
 </video>
+--> 
