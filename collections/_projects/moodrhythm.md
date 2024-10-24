@@ -10,9 +10,9 @@ categories: ["Bipolar Disorder"]
 client: "Steve Voida, Tanzeem Choudhury, Geri Gay, Matthew Green, Chrissie Chi, Mashfiqui Rabbi, Saeed Abdullah"
 role: open mHealth Challenge $100k Award 2013
 gallery:
-  #- image: "/assets/images/gen/projects/moodrhythm-1.webp"
+  - image: "/assets/images/gen/projects/moodrhythm-1.webp"
   - image: "/assets/images/gen/projects/moodrhythm-2.webp"
-  - image: "/assets/images/gen/projects/moodrhythm-3.webp"
+  - image: "/assets/images/gen/projects/moodrhyhtm-4.webp"
 
 
 ---
