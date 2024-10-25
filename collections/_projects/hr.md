@@ -3,7 +3,7 @@ layout: project # alternative layouts: project, project-left, project-right, pro
 title: "HealthRhythms"
 description: "a digital biomarker and health environment company."
 date: 2019-12-20
-weight: 3
+weight: 2
 thumbnail: "/assets/images/gen/projects/hr-1-thumb.webp"
 image: "/assets/images/gen/projects/hr-1.webp"
 categories: ["Mental Health", "Biomarkers"]

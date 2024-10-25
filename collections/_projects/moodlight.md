@@ -3,7 +3,7 @@ layout: project # alternative layouts: project, project-left, project-right, pro
 title: "Mood Light"
 description: "Mood Light is an ambient biofeedback light experience."
 date: 2012-12-20
-weight: 3
+weight: 6
 thumbnail: "/assets/images/gen/projects/ml-1-thumb.webp"
 image: "/assets/images/gen/projects/ml-1.webp"
 categories: ["Biofeedback", "Mood"]

@@ -3,7 +3,7 @@ layout: project-left
 title: "CUE"
 description: "A tailored recommendation engine for behavioural health "
 date: 2018-12-20
-weight: 2
+weight: 4
 thumbnail: "/assets/images/gen/projects/cue-1-thumb.webp"
 image: "/assets/images/gen/projects/cue-1.webp"
 client: "Ellen Frank, David Kupfer, Tanzeem Choudhury, Greg Posey, Sam Burgess, Yuan Wei, Jeremy Leach"

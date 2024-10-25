@@ -23,9 +23,7 @@ can be situated within a healthcare context.
 
 Decentralized health networks provide the infrastructure to realize a different information and computational model that centers the locus of health information around the patients. 
 
-Commonhealth is a framework for building and test-
-ing decentralized health networks that enable people/patients to share their data with a decentralized network in order to gain informational value derived
-from insights that can be gleaned from this collective data. 
+Commonhealth is a framework for building and testing decentralized health networks that enable people/patients to share their data with a decentralized network in order to gain informational value derived from insights that can be gleaned from this collective data. 
 
 While decentralized networks disperse control of health information amongst a network of individuals, they require careful design and testing to ensure the
 networks incentives promote the interests of each member, scale cost-

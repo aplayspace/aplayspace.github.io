@@ -3,7 +3,7 @@ layout: project # alternative layouts: project, project-left, project-right, pro
 title: "MoodRhythm"
 description: "MoodRhythm was a mood assessment platform for tracking social rhythms and behaviour of people with bipolar disorder."
 date: 2012-12-20
-weight: 3
+weight: 4
 thumbnail: "/assets/images/gen/projects/moodrhythm-1-thumb.webp"
 image: "/assets/images/gen/projects/moodrhythm-1.webp"
 categories: ["Bipolar Disorder"]
