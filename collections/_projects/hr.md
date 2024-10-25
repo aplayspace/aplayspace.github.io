@@ -28,9 +28,9 @@ Today, Health Rhythms provides continuous assessment of patients' mental health 
 Visit <a href="https://healthrhythms.com">healthrhythms.com</a> to learn more.
 
 
-  <source src="/assets/videos/hr-video1.mp4" type="video/mp4">
+  <!--<source src="/assets/videos/hr-video1.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video>--> 
 
 
 
