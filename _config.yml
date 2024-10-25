@@ -107,7 +107,7 @@ fonts:
   logo: "'DM Sans'"
 
 logo:
-  logo_text: "Jekyll Curate"
+  logo_text: "aplayspace"
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
@@ -127,8 +127,8 @@ header:
 open_graph:
   meta_opengraph_type: "website"
   meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: "@markjamatthews"
+  meta_twitter_creator: "@markjamatthews"
 
 darkmode:
   enable_dark_mode: true
@@ -179,5 +179,5 @@ footer:
 bottom:
   enable_bottom: false # show/hide the entire bottom (below the footer)
   enable_bottom_menu: false # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2044"
+  copyright_text: "© 2144"
   show_rss_icon: true

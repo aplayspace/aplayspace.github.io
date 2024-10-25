@@ -16,7 +16,7 @@ body_classes: page-home
   </div>
 </div>
 
-{% assign cards = site.projects | sort: 'date' | reverse %}
+{% assign cards = site.projects | sort: 'date' %}
 {% assign limit = page.projects.limit | default: 3 %}
 {% assign sort_by = page.projects.sort | default: 'date' %}
 {% assign columns =  page.projects.columns | default: 3 %}
@@ -63,7 +63,7 @@ body_classes: page-home
 </div>
 {% endif %}
 
-{% assign cards = site.posts | sort: 'date' | reverse %}
+{% assign cards = site.posts | sort: 'date' %}
 {% assign limit = page.posts.limit | default: 3 %}
 {% assign sort_by = page.posts.sort | default: 'date' %}
 {% assign columns =  page.posts.columns | default: 3 %}

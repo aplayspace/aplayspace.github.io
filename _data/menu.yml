@@ -1,8 +1,5 @@
 main:
-  - name: Home
-    url: /
-    weight: 1
-  - name: Projects
+  - name: projects
     url: /projects/
     weight: 2
     child:
@@ -26,13 +23,13 @@ main:
         #icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: "money & mood"
         url: /projects/finhealth/
-  - name: Articles
-    url: /articles/
-    weight: 1
   - name: entropics
     url: /blog/
+    weight: 1
+  - name: articles
+    url: /articles/
     weight: 2
-  - name: About
+  - name: about
     url: /about/
     weight: 3 
 

@@ -21,6 +21,8 @@ MoodLight used a galvanic skin response sensor (GSR), provided generously by Gal
 
 These sensors were connected to an ambient lighting system and controlled the hue of the lights: blue was the low arousal anchor, red was the high arousal anchor.  
 
+MoodLight can be used to check-in on your internal state, to accompany a meditation, or in a competitive 2 or more person game in a tug-of-war style game where players try to relax to change the hue of the light to their winning colour.  
+
 ### Articles 
 
 Snyder, J., Matthews, M., Chien, J., Chang, P. F., Sun, E., Abdullah, S., & Gay, G. (2015, February). Moodlight: Exploring personal and social implications of ambient display of biosensor data. In Proceedings of the 18th ACM conference on computer supported cooperative work & social computing (pp. 143-153).
