@@ -2,21 +2,21 @@
   {
     "title": "Twitter",
     "fa_icon": "fab fa-twitter",
-    "url": "https://www.zerostatic.io"
+    "url": "www.twitter.com/@markjamatthews"
   },
   {
     "title": "Github",
     "fa_icon": "fab fa-github",
-    "url": "https://www.zerostatic.io"
+    "url": "https://github.com/aplayspace"
   },
   {
     "title": "Instagram",
     "fa_icon": "fab fa-instagram-square",
-    "url": "https://www.zerostatic.io"
+    "url": "https://www.instagram.com/aplayspace/"
   },
   {
     "title": "Linkedin",
     "fa_icon": "fab fa-linkedin",
-    "url": "https://www.zerostatic.io"
+    "url": "https://www.linkedin.com/in/mjamatthews"
   }
 ]
