@@ -1,6 +1,6 @@
 ---
 layout: project-left
-title: "CUE"
+title: "Cue"
 description: "A tailored recommendation engine for behavioural health "
 date: 2018-12-20
 weight: 4
