@@ -1,31 +1,40 @@
 ---
-layout: project # alternative layouts: project, project-left, project-right, project-top
+layout: project-left # alternative layouts: project, project-left, project-right, project-top
 title: "biogotchi"
 description: "living information displays"
 date: 2013-12-20
 weight: 2
-thumbnail: "/assets/images/gen/projects/hr-1-thumb.webp"
-image: "/assets/images/gen/projects/hr-1.webp"
-categories: ["Mental Health", "Biomarkers"]
-client: "Tanzeem Choudhury, Ellen Frank, David Kupfer, Shahid Ali, Paul Gilbert"
-role: $40m+ in Venture Funding, SBIR Grants 
+thumbnail: "/assets/images/gen/projects/bio-1-thumb.webp"
+image: "/assets/images/gen/projects/bio-1.webp"
+categories: ["Wellbeing", "Information Visulization"]
+client: "Jacqueline T. Chien, Geri Gay, François V. Guimbretière, Tauhidur Rahman"
+role:  
 gallery:
-  - image: "/assets/images/gen/projects/hr-4.webp"
-  - image: "/assets/images/gen/projects/hr-2.webp"
-  - image: "/assets/images/gen/projects/hr-3.webp"
+  - image: "/assets/images/gen/projects/bio-1.webp"
+  - image: "/assets/images/gen/projects/bio-2.webp"
+  - image: "/assets/images/gen/projects/bio-3.webp"
+
 
 
 ---
+This work focused on the systematic manipulation of plants for affective user
+feedback. Building on centuries of explicit plant manipulation and recent work in HCI, we explored the combination of personal informatics and plant-mediated
+feedback. 
 
-HealthRhythms is a digital mental health startup that uses objective sensor data and self-reported information to continously assess mental health. 
+We argued that plant-based information displays could offer affective, multi-sensorial and sometimes ambiguous signs for users. 
 
-I co-founded HealthRhythms back in 2014 with Tanzeem Choudhury, Ellen Frank, David Kupfer and Shahid Ali, and served as employee number 1, Product lead and mostly Chief Technology Officer for over 10 years.  
+In the paper below, we described our plant manipulation system and report the results of 4 experiments in this novel design space. The images to the left display traditional graphs of a person's daily step count and the equivalent information displayed using a plant's health.  
 
-The company was founded on the belief that  there can be no health without mental health. However, reliable measurement of mental health has been a challenge. Patient self-reports are subjective and sporadic, making it difficult to know what is happening between visits. We  created the most advanced mental health platform to integrate mental health intelligence into everyday care. 
+We also provided guidelines and suggestions for how designers can incorporate plant-based information displays into their
+work and conclude by exploring specific domains where plant-based displays could be effective as information displays for personal behavior, harnessing their
+acceptaed use in everyday settings and affective affordances.
 
-Today, Health Rhythms provides continuous assessment of patients' mental health and personalized interventions mostly within the US Health System. 
+More broadly, there is considerable potential for the use of plants and other botanical organisms to serve as living information displays, not only narrowly for personal feedback on individual behaviour, but also for applications where they may serve as information related to an environment (e.g., is the air clean).  
 
-Visit <a href="https://healthrhythms.com">healthrhythms.com</a> to learn more.
+
+### Articles 
+
+Chien, J. T., Guimbretière, F. V., Rahman, T., Gay, G., & Matthews, M. (2015, April). Biogotchi! An exploration of plant-based information displays. In Proceedings of the 33rd annual acm conference extended abstracts on human factors in computing systems (pp. 1139-1144).
 
 
   <!--<source src="/assets/videos/hr-video1.mp4" type="video/mp4">
