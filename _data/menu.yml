@@ -12,7 +12,7 @@ main:
         #icon: "/assets/images/icons/wireframe-5.svg"
         #icon_darkmode: "/assets/images/icons/wireframe-5-white.svg"
         description: "digital biomarkers"
-        url: /projects/hr/
+        url: /projects/healthrhythms/
       - name: "Cue"
         #icon: "/assets/images/icons/wireframe-6.svg"
         #icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
