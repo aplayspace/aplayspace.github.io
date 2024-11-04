@@ -1,6 +1,6 @@
 ---
 layout: project-right # alternative layouts: project, project-left, project-right, project-top
-title: "Mood Diary"
+title: "Mood Diary - the first mood app"
 description: "Mood Diary was the first mobile mood app for tracking mental health."
 date: 2005-12-20
 weight: 4
@@ -17,8 +17,7 @@ gallery:
 
 
 ---
-
-Teenagers and children with mental health problems often struggle to engage in therapy. Mood Diary provided a private and convenient way for young people to keep track of their symptoms and feelings using their personal mobile phones. It also provided them and their mental health professionals with graphs to help spot trends or discuss significant events.
+Mood Diary was the first mobile-phone based mood app. It pre-dated smartphones and was designed to run on Java-based 'dumbphones' like the Nokia 3310. Teenagers and children with mental health problems often struggle to engage in therapy. Mood Diary provided a private and convenient way for young people to keep track of their symptoms and feelings using their personal mobile phones. It also provided them and their mental health professionals with graphs to help spot trends or discuss significant events.
 
 'Mood monitoring' is an important component of many intervention approaches, including Cognitive Behavioural Therapy (CBT). This involves people recording their mood at regular intervals, to help them to recognize the factors which may be impacting on their mood and how they have managed at times when they have felt depressed. 'Mood monitoring' is traditionally done as a pen and paper exercise, using a mood chart supplied by the therapist. Young people are notoriously poor at completing these charts or remembering to bring them to the next session. In this project a mobile phone version of a paper diary was developed.
 

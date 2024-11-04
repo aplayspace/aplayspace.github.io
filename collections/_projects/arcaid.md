@@ -1,6 +1,6 @@
 ---
 layout: project # alternative layouts: project, project-left, project-right, project-top
-title: "Arcaid"
+title: "Arcaid - charitable play"
 description: "Arcaid was a retro-gaming experience for charity."
 date: 2008-12-20
 weight: 6
@@ -13,7 +13,7 @@ gallery:
   - image: "/assets/images/gen/projects/arcaid-1.webp"
   - image: "/assets/images/gen/projects/arcaid-2.webp"
   - image: "/assets/images/gen/projects/arcaid-3.webp"
-
+  
 
 ---
 
