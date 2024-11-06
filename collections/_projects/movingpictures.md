@@ -1,5 +1,5 @@
 ---
-layout: project-left # alternative layouts: project, project-left, project-right, project-top
+layout: project-top # alternative layouts: project, project-left, project-right, project-top
 title: "Moving Pictures"
 description: "Art meets technology to reinvigorate painting and bring it to life."
 date: 2010-12-20
