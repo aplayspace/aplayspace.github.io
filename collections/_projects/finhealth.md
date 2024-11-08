@@ -24,4 +24,8 @@ For people with bipolar disorder, a relatively common mood disorder that affects
 
 This project is first focusing on using objective financial data to understand with more precision how the mood of a person with bipolar disorder is affected by money, and how money, and the monetary environment including whether that is digital or physical, affects mood. 
 
+#Articles
+Blair, J., Brozena, J., Matthews, M., Richardson, T., & Abdullah, S. (2022). Financial technologies (FinTech) for mental health: The potential of objective financial data to better understand the relationships between financial behavior and mental health. Frontiers in psychiatry, 13, 810057.
+
+Brozena, J., Blair, J., Richardson, T., Matthews, M., Mukherjee, D., Saunders, E. F., & Abdullah, S. (2024, May). Supportive Fintech for Individuals with Bipolar Disorder: Financial Data Sharing Preferences for Longitudinal Care Management. In Proceedings of the CHI Conference on Human Factors in Computing Systems (pp. 1-15).
 
