@@ -16,9 +16,9 @@ body_classes: page-home
   </div>
 </div>
 
-{% assign cards = site.projects | sort: 'date' %}
+{% assign cards = site.projects | sort: 'date' | reverse %}
 {% assign limit = page.projects.limit | default: 3 %}
-{% assign sort_by = page.projects.sort | default: 'date' %}
+{% assign sort_by = page.projects.sort | default: 'date' | reverse %}
 {% assign columns =  page.projects.columns | default: 3 %}
 {% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
 {% if sort_by == 'weight' %}
@@ -63,9 +63,9 @@ body_classes: page-home
 </div>
 {% endif %}
 
-{% assign cards = site.posts | sort: 'date' %}
+{% assign cards = site.posts | sort: 'date' | reverse %}
 {% assign limit = page.posts.limit | default: 3 %}
-{% assign sort_by = page.posts.sort | default: 'date' %}
+{% assign sort_by = page.posts.sort | default: 'date'| reverse %}
 {% assign columns =  page.posts.columns | default: 3 %}
 {% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
 {% if sort_by == 'weight' %}
